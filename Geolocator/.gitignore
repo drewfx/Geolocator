@@ -1,0 +1,8 @@
+.idea/
+_ReSharper.*
+[Pp]ackages/
+[Bb]in/
+[Oo]bj/
+
+!.gitignore
+!.gitattributes
